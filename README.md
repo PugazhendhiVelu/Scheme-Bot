@@ -5,7 +5,7 @@ Through a user-friendly interface, citizens can easily explore a variety of scen
 
 **Overall Architecture - Project**
 
-[Architecture diagram.png](https://github.com/PugazhendhiVelu/Scheme-Bot/blob/main/Architecture%20diagram.png)
+![Architecture diagram.png](https://github.com/PugazhendhiVelu/Scheme-Bot/blob/main/Architecture%20diagram.png)
 
 
 **Technologies Used**
